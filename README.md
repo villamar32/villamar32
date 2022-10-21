@@ -9,9 +9,9 @@ I am a Tech Enthusiast. Looking forward to learn new skills.
 
 ## Skills:
 
-![javascript](https://img.shields.io/badge/javascript-DDEA09?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)  ![React.js](https://img.shields.io/badge/React.js-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)  ![sass](https://img.shields.io/badge/sass-E4405F?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)
+![javascript](https://img.shields.io/badge/javascript-EAEA09?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)  ![React.js](https://img.shields.io/badge/React.js-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)   
 
-![node.js](https://img.shields.io/badge/Node.js-72ae2d?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)  ![next.js](https://img.shields.io/badge/next.js-0095D5?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)    ![git](https://img.shields.io/badge/git%5Cgithub-E4405F?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![node.js](https://img.shields.io/badge/Node.js-72ae2d?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)  ![Python](https://img.shields.io/badge/python-EAEA09?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)    ![git](https://img.shields.io/badge/git%5Cgithub-E4405F?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 
 ![postgresql](https://img.shields.io/badge/postgresql-0095D5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)  ![mongodb](https://img.shields.io/badge/mongodb-72ae2d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)    ![amazon](https://img.shields.io/badge/aws-DAD9D9?style=for-the-badge&logo=amazon&logoColor=white&labelColor=101010)
 
